@@ -75,11 +75,6 @@ This project is a Flask REST API integrated with a MySQL database for persistent
 
 ---
 
-## Screenshots
-*(Add screenshots of the form, user list, and API response if possible.)*
-
----
-
 ## Notes
 - Anyone can add users; there is no authentication.
 - Make sure your MySQL server is running and accessible.
